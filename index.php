@@ -2,14 +2,14 @@
 
 <?php 
 
-# Next Bluesfest dates: Thursday 28th March - 1st April 2013
-$bluesfestDay1 = date('d-M-Y', mktime(0, 0, 0, 3, 28, 2013));
-$bluesfestDay2 = date('d-M-Y', mktime(0, 0, 0, 3, 29, 2013));
-$bluesfestDay3 = date('d-M-Y', mktime(0, 0, 0, 3, 30, 2013));
-$bluesfestDay4 = date('d-M-Y', mktime(0, 0, 0, 3, 31, 2013));
-$bluesfestDay5 = date('d-M-Y', mktime(0, 0, 0, 4, 1, 2013));
+# Next Bluesfest dates: Thursday 17th April - 21st April 2014
+$bluesfestDay1 = date('d-M-Y', mktime(0, 0, 0, 4, 17, 2014));
+$bluesfestDay2 = date('d-M-Y', mktime(0, 0, 0, 4, 18, 2014));
+$bluesfestDay3 = date('d-M-Y', mktime(0, 0, 0, 4, 19, 2014));
+$bluesfestDay4 = date('d-M-Y', mktime(0, 0, 0, 4, 20, 2014));
+$bluesfestDay5 = date('d-M-Y', mktime(0, 0, 0, 4, 21, 2014));
 # Bluesfest start date in seconds
-$bluesfestStartDateInSeconds = mktime(0, 0, 0, 3, 28, 2013);
+$bluesfestStartDateInSeconds = mktime(0, 0, 0, 4, 17, 2014);
 # Today's date
 $today = date('d-M-Y');
 # The exact time right now
